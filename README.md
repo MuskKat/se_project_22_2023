@@ -1,6 +1,6 @@
 # Project implementation video
 
-[Video link](https://youtu.be/9p_x9e74wBk))
+([Video link](https://youtu.be/9p_x9e74wBk))
 
 # Project Rubrics
 Simplii (Forked Project link here: https://github.com/MuskKat/Simplii)
