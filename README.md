@@ -1,4 +1,4 @@
-# Project implementation video
+# Project implementation video (Group 22)
 
 ([Video link](https://youtu.be/9p_x9e74wBk))
 
